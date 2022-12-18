@@ -1,6 +1,6 @@
 % define customers
 customer('John Doe', 'Toronto', aaa).
-customer('Jane Doe', 'Montreal', aaa).
+customer('Jane Doe', 'Toronto', aaa).
 customer('Ben', 'Palo Alto', bbb).
 customer('Someone Else', 'Mountain View', ccc).
 
